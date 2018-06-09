@@ -72,7 +72,7 @@ class App extends React.Component{
     render(){
         return(
             <div>
-            <h1>Nitesh</h1>
+            <h1>React Web Application</h1>
             <NameForm />
            
             </div>
